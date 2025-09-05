@@ -13,10 +13,15 @@ Despite occupying a temporary, contractual position as a Junior DevOps Engineer 
 <p>Some of my achievements include: reducing manual deployment time by implementing CI/CD pipelines; reduced deployment errors by automating application deployment with tools like Ansible, Terraform, or Helm; and improving issue detection and response times by integraring monitoring & logging tools like Prometheus, Grafana.</p>
 
 
+<<hr>
 <h2> Some things you should know about me 👇</h2>
-1.  I worked as a licensed nuclear medicine technologist for 7 years before transitioning to DevOps Engineering.
-2.  I am always taking courses to enhance my skills so I can be well equipped to support my organization
-3.  I took the DevOps bootcamp twice! I liked it THAT much
+<ul>
+<li>👨‍💻 I worked as a licensed nuclear medicine technologist for 7 years before transitioning to DevOps engineering</strong>.</li>
+<li>👨‍💻 I completed the DevOps bootcamp with Nana twice! I liked it THAT much! </strong>.</li>
+<li>👨‍💻 I am always seeking out new learning opportunities. I am currently strenghtening my knowledge of Advanced Kubernetes</strong>.</li>
+
+</ul>
+<hr>
 
 <h3>My Technical Knowdledge Areas and Skillsets include 👨‍💻</h3>
 1. Terraform
