@@ -24,15 +24,15 @@ Despite occupying a temporary, contractual position as a Junior DevOps Engineer 
 <hr>
 
 <h3>My Technical Knowdledge Areas and Skillsets include 👨‍💻</h3>
-1. Terraform
-2. Cloud Computing
-3. Ansible
-4. Git
-5. Linux
-6. Jenkins
-7.  Python
-8.  IAM
-9. AWS and more
+<li>👨‍💻 Terraform</strong>.</li>
+<li>👨‍💻 Cloud Computing, </strong>.</li>
+<li>👨‍💻 Ansible</strong>.</li>
+<li>👨‍💻 Git</strong>.</li>
+<li>👨‍💻 Linux</strong>.</li>
+<li>👨‍💻 Python</strong>.</li>
+<li>👨‍💻 IAM</strong>.</li>
+<li>👨‍💻 AWS and more</strong>.</li>
+
 
 ## If you're looking for a dedicated DevOps Engineer who's passionate about automation, cloud, and reliability, Osas is your guy! Please reach out . 
 
