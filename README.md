@@ -14,20 +14,20 @@ Despite occupying a temporary, contractual position as a Junior DevOps Engineer 
 
 
 <h2> Some things you should know about me 👇</h2>
-- I worked as a licensed nuclear medicine technologist for 7 years before transitioning to DevOps Engineering.
-- I am always taking courses to enhance my skills so I can be well equipped to support my organization
-- I took the DevOps bootcamp twice! I liked it THAT much
+1.  I worked as a licensed nuclear medicine technologist for 7 years before transitioning to DevOps Engineering.
+2.  I am always taking courses to enhance my skills so I can be well equipped to support my organization
+3.  I took the DevOps bootcamp twice! I liked it THAT much
 
 <h3>My Technical Knowdledge Areas and Skillsets include 👨‍💻</h3>
-- Terraform
-- Cloud Computing
-- Ansible
-- Git
-- Linux
-- Jenkins
-- Python
-- IAM
-- AWS and more
+1. Terraform
+2. Cloud Computing
+3. Ansible
+4. Git
+5. Linux
+6. Jenkins
+7.  Python
+8.  IAM
+9. AWS and more
 
 ## If you're looking for a dedicated DevOps Engineer who's passionate about automation, cloud, and reliability, Osas is your guy! Please reach out . 
 
